@@ -15,14 +15,14 @@ SamGEMINI is a Discord bot powered by Google's Gemini AI, designed to engage in 
 
 1. **Fork this Replit** or import the GitHub repository into Replit.
 2. **Add environment variables** in Replit's **Secrets**:
-   - `SECRET_KEY` → Your Discord Bot Token.
+   - `SECRET_KEY` → Your Discord Bot Token (Get it [here](https://discord.com/developers/applications))
    - `GEMINI_SECRET` → Your Google Gemini API Key (Get it [here](https://aistudio.google.com/app/apikey)).
 3. **Run the bot** by clicking the ▶️ "Run" button.
 
 ## Deploying
 
 - Replit provides always-on functionality if you enable the **"Always On"** option (requires Replit Hacker plan).
-- Alternatively, use a **Uptime Monitoring service** like UptimeRobot to keep the bot online.
+- But in this case, the project has not been deployed.
 
 ## Useful Links
 
